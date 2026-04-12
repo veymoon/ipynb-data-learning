@@ -1,3 +1,3 @@
 # ipynb-data-learning
 
-Learning repository for Jupyter notebook data analysis techniques.
+Learning repository for implementing ML algorithms from scratch in Jupyter notebooks.
